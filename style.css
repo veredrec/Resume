@@ -1,0 +1,42 @@
+body {
+  margin: 2rem auto;
+  width: 70%;
+  padding: 0;
+  color: #222;
+  font-size: 14px;
+  font-family: 'Noto Serif', serif;
+}
+.header {
+  border-top: 0.2rem solid #000;
+  border-bottom: 0.1rem solid #ccc;
+  display: flex;
+  justify-content: space-between;
+}
+.name-title {
+  font-family: 'Play', sans-serif;
+  margin-left: 1rem;
+  letter-spacing: 0.5rem;
+}
+.blue-letter {
+  color: #39C;
+}
+.navbar {
+  margin: 1rem 0.3rem;
+}
+.menu-list {
+  padding: 1rem;
+  list-style-type: decimal;
+}
+.list-item {
+  display: inline;
+  font-weight: bold;
+}
+.nav-link {
+  text-decoration: none;
+  color: #222;
+  margin: 0.3rem;
+  padding: 0.3rem;
+}
+.current {
+  color: #39C;
+}
