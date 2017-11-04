@@ -1,6 +1,8 @@
 # Resume for Automattic
-### My resume - Automattic Edition
+### My resume - The Automattic Edition
 
-##### Simple HTML and CSS one page resume
+**Vered Rekanati - Graduate Mentor and Web Developer at Founders and Coders**
 
-##### Please visit [here](https://veredrec.github.io/Resume/).
+Simple HTML and CSS one page resume
+
+Please visit [here](https://veredrec.github.io/Resume/).
