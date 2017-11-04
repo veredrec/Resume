@@ -6,6 +6,7 @@ body {
   font-size: 14px;
   font-family: 'Noto Serif', serif;
 }
+/*style for header*/
 .header {
   border-top: 0.2rem solid #000;
   border-bottom: 0.1rem solid #ccc;
@@ -39,4 +40,43 @@ body {
 }
 .current {
   color: #39C;
+}
+
+/*style for main content*/
+.subtitle {
+  color: #000;
+  font-size: 2.5rem;
+  font-family: 'Caudex', serif;
+}
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.content-part {
+  width: 30%;
+  margin: 0.5rem;
+}
+.part-title {
+  color: #39C;
+  font-size: 1.3rem;
+  margin-bottom: 0;
+}
+.part-text {
+  margin-top: 0.2rem;
+  font-size: 1rem;
+}
+
+/*style for footer*/
+.footer {
+  border-top: 0.1rem solid #000;
+}
+.footer-text {
+  color: #000;
+  margin-left: 0.5rem;
+}
+.footer-item {
+  font-size: 1rem;
+  margin-left: 1rem;
+  font-weight: bold;
 }
