@@ -30,6 +30,11 @@ body {
 .list-item {
   display: inline;
   font-weight: bold;
+  font-size: 0.8rem;
+}
+.number {
+  color: #222;
+  font-weight: normal;
 }
 .nav-link {
   text-decoration: none;
@@ -45,7 +50,7 @@ body {
 /*style for main content*/
 .subtitle {
   color: #000;
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   font-family: 'Caudex', serif;
 }
 .main-content {
