@@ -6,3 +6,10 @@
 Simple HTML and CSS one page resume
 
 Please visit [here](https://veredrec.github.io/Resume/).
+
+
+#### Resume:
+![My Resume](resume-automattic.png)
+
+#### Automattic Home Page:
+![Automattic](automattic-home.png)
